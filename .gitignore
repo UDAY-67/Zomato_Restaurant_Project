@@ -13,8 +13,7 @@ __pycache__/
 htmlcov/
 
 # Data files (large)
-data/raw/*.csv
-data/processed/*.csv
+data/
 
 # Models
 models/*.pkl
